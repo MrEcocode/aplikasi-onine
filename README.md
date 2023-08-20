@@ -6,3 +6,4 @@ Membuat alur login aplikasi
 3. web mengirim data ke server
 4. Memvalidasi data yang dimasukkan dengan data yang tersimpan di server
 5. Menampilkan halaman HOME
+6. pengguna siap memakai fitur yangtersedia
